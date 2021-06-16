@@ -1,0 +1,76 @@
+@media(max-width:1024px){
+    .pic .title {
+        font-size: 54px;
+    }
+    .about .container {
+        padding: 0px 75px;
+    }
+    .servise .container{
+        padding-left: 75px;
+        padding-right: 75px;
+    }
+    .servise .item img {
+        margin: 90px 20px;
+    }
+    .video .container{
+        padding: 0px 75px;
+    }
+    .video .icon {
+        height: 540px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .sistema .container{
+        padding: 0px 75px;
+    }
+    .sistema a.butright {
+        font-size: 20px;
+    }
+    .slayd .container{
+        padding: 0px 75px;
+    }
+    .slayd .title {
+        font-size: 54px;
+    }
+    .slayd .picture img{
+        width: 25%;
+        height: 25%;
+    }
+    .slayd .picture .windows{
+        width: 40%;
+        height: 40%;
+    }
+    .customer .container{
+        padding: 0px 75px;
+    }
+    .title{
+        font-size: 54px;
+    }
+    .customer .row .col-3 {
+        flex-basis: 25%;
+        max-width: 25%;
+        padding: 15px;
+        text-align: center;
+    }
+    .zakaz .title {
+        font-size: 54px;
+    }
+    footer .menu li a {
+        font-size: 14px;
+    }
+    footer .title{
+        font-size: 14px;
+    }
+    footer .title span{
+        font-size: 12px;
+    }
+    footer .number{
+        margin-bottom: 20px;
+    }
+}
+@media(max-width:768px){
+    header .logo{
+     width: 30%;
+    }
+}
